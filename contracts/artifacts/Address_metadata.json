@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/FuYoh.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/FuYoh.sol": {
+			"keccak256": "0x757ea52b9eb570b77ef771bf69acb1e24f16eb237fe4e829a53510e353614d89",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f3739be2a1ddd8b26fa2327a036af1453e5c59c26cb8539c5f5c999e220451cf",
+				"dweb:/ipfs/QmSCLN2RTCF8gJn6Afc6jTAAGurtBawv2xyssr95tPujUR"
+			]
+		}
+	},
+	"version": 1
+}
